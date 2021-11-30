@@ -104,5 +104,6 @@ class AdvancedCalc extends Calculator {
                 System.out.println("Выберите из пунктов 1-2");
                 showMenu();
         }
+
     }
 }
