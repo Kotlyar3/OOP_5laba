@@ -101,6 +101,7 @@ class AdvancedCalc extends Calculator {
             case 2:
                 return;
             default:
+
                 System.out.println("Выберите из пунктов 1-2");
                 showMenu();
         }
